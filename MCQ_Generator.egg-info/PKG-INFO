@@ -8,6 +8,8 @@ Requires-Dist: langchain
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv
 Requires-Dist: PyPDF2
+Requires-Dist: langchain_community
+Requires-Dist: huggingface_hub
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
